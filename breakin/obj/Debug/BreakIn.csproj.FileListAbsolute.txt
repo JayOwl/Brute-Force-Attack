@@ -1,0 +1,13 @@
+\\psf\Home\Desktop\oldDailyDocs\DailyDocs\_SSD19\webappsec\newDay2\breakin\obj\Debug\delleme.exe
+\\psf\Home\Desktop\oldDailyDocs\DailyDocs\_SSD19\webappsec\newDay2\breakin\obj\Debug\delleme.pdb
+\\Mac\Home\Desktop\DailyDocs\_ssd2015_2016\_oldStuff\webSecurity\breakin\breakin\obj\Debug\delleme.exe
+\\Mac\Home\Desktop\DailyDocs\_ssd2015_2016\_oldStuff\webSecurity\breakin\breakin\obj\Debug\delleme.pdb
+\\Mac\Home\Desktop\DailyDocs\_ssd2015_2016\_oldStuff\webSecurity\breakin\breakin\bin\Debug\delleme.exe
+\\Mac\Home\Desktop\DailyDocs\_ssd2015_2016\_oldStuff\webSecurity\breakin\breakin\bin\Debug\delleme.pdb
+\\Mac\Home\Desktop\DailyDocs\_ssd2015_2016\_oldStuff\webSecurity\breakin\breakin\obj\Debug\BreakIn.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\WebSecurityClass2\breakin\obj\Debug\delleme.exe
+C:\Users\user\Desktop\WebSecurityClass2\breakin\obj\Debug\delleme.pdb
+C:\Users\user\Desktop\WebSecurityClass2\breakin\bin\Debug\delleme.exe
+C:\Users\user\Desktop\WebSecurityClass2\breakin\bin\Debug\delleme.pdb
+C:\Users\user\Desktop\WebSecurityClass2\breakin\obj\Debug\BreakIn.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\WebSecurityClass2\breakin\bin\Debug\passwords.txt
